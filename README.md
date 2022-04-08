@@ -4,6 +4,8 @@ We implement a fake news detection in this repository. This was a COMP755: Machi
 
 <p align="center">
   <img src="data/overall_process.png" width="600">
+  <p align = "center">
+  Fig.1 - Overall Classification process of Fake News Detection
 </p>
 
 
