@@ -34,5 +34,12 @@ We implemented various machine learning and deep learning methods: Naive Bayes, 
 
 ## Domain Adaptation
 Check `domain_adaptation.ipynb` for domain adaptation.
+
+<p align="center">
+  <img src="data/domain_independent_model.png" width="600">
+  <p align = "center">
+  Structure of the domain-independent model
+</p>
+
 ## Results
 Check our final report `report.pdf` for the results.
