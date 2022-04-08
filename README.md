@@ -27,8 +27,10 @@ https://github.com/tfs4/liar_dataset
 
 
 ## Preprocessing
+Check `preprocessing.ipynb` for the preprocessing process.
 
 ## Analysis
+We implemented various machine learning and deep learning methods: 
 
 ## Results
 You can check the results in our final report `report.pdf`.
