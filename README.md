@@ -18,3 +18,10 @@ https://www.kaggle.com/jruvika/fake-news-detection?select=data.csv
 
 **LIAR**         
 https://github.com/tfs4/liar_dataset
+
+
+## Preprocessing
+
+## Analysis
+
+## Report
