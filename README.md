@@ -29,8 +29,10 @@ https://github.com/tfs4/liar_dataset
 ## Preprocessing
 Check `preprocessing.ipynb` for the preprocessing process.
 
-## Analysis
-We implemented various machine learning and deep learning methods: 
+## ML and DL Analysis
+We implemented various machine learning and deep learning methods: Naive Bayes, Logistic Regression, SVM, Random Forest, MLP, BERT.
 
+## Domain Adaptation
+Check `domain_adaptation.ipynb` for domain adaptation.
 ## Results
-You can check the results in our final report `report.pdf`.
+Check our final report `report.pdf` for the results.
