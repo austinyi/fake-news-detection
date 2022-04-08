@@ -7,14 +7,14 @@ We implement a fake news detection in this repository. This was a COMP755: Machi
 
 This project used following four datasets:
 
-\textbf{Kaggle 1}   
+**Kaggle 1** 
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
-Kaggle 2           
+**Kaggle 2**          
 https://www.kaggle.com/ksaivenketpatro/fake-news-detection-dataset
 
-Kaggle 3           
+**Kaggle 3**           
 https://www.kaggle.com/jruvika/fake-news-detection?select=data.csv
 
-LIAR           
+**LIAR**         
 https://github.com/tfs4/liar_dataset
