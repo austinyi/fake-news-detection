@@ -2,7 +2,7 @@
 
 We implement a fake news detection in this repository. This was a COMP755: Machine Learning project done by Bongsoo Yi, Chanhwa Lee, Wanyong Feng, and Shengjie Xu.
 
-
+<img src="data/overall_process.png" width="600">
 ## Data
 
 This project used following four datasets:
@@ -24,4 +24,5 @@ https://github.com/tfs4/liar_dataset
 
 ## Analysis
 
-## Report
+## Results
+You can check the results in our final report `report.pdf`.
