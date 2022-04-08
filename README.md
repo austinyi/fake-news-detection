@@ -1,2 +1,2 @@
-# fake-news-detection
+# Fake News Detection
 COMP755 Machine Learning project
