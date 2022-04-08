@@ -7,7 +7,7 @@ We implement a fake news detection in this repository. This was a COMP755: Machi
 
 This project used following four datasets:
 
-**Kaggle 1** 
+**Kaggle 1**     
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 **Kaggle 2**          
