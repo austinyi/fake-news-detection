@@ -32,9 +32,9 @@ Check `preprocessing.ipynb` for the preprocessing process.
 ## ML and DL Analysis
 We implemented various machine learning and deep learning methods: Naive Bayes, Logistic Regression, SVM, Random Forest, MLP, BERT.
 
-* NB_LR_SVM_RF.ipynb
-* MLP.ipynb
-* BERT.py
+* `NB_LR_SVM_RF.ipynb`
+* `MLP.ipynb`
+* `BERT.py`
 
 ## Domain Adaptation
 Check `domain_adaptation.ipynb` for domain adaptation.
