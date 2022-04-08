@@ -1,5 +1,5 @@
 # Fake News Detection
-COMP755 Machine Learning project
+We implement a fake news detection in this repository. This was a COMP755: Machine Learning final project done by Bongsoo Yi, Chanhwa Lee, Wanyong Feng, and Shengjie Xu.
 
 
 ## Data
