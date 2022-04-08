@@ -2,10 +2,10 @@
 
 We implement fake news detection in this repository. This was a COMP755: Machine Learning project done by Bongsoo Yi, Chanhwa Lee, Wanyong Feng, and Shengjie Xu. The summary of the project is as follows:
 
-1. We implemented numerous classical machine learning methods, including naive Bayes (NB), logistic regression (LR), support vector machine (SVM), and
+1. We implemented classical machine learning methods: naive Bayes (NB), logistic regression (LR), support vector machine (SVM), and
 random forest (RF) to perform the fake news detection task. 
 
-2. We utilized deep learning methods such as deep neural network (DNN), one-dimensional convolutional neural network (1D CNN), bidirectional encoder representations from transformers (BERT), and long short-term memory (LSTM) to conduct the fake news detection with the same data settings as in the classical methods.
+2. We utilized deep learning methods: deep neural network (DNN), one-dimensional convolutional neural network (1D CNN), bidirectional encoder representations from transformers (BERT), and long short-term memory (LSTM) to conduct the fake news detection with the same data settings as in the classical methods.
 
 3. We analyzed the generalizability of the trained models by testing them on datasets that have
 different distributions from the training data (e.g., testing the models trained on longer news articles to
