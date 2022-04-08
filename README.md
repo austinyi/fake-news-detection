@@ -1,6 +1,6 @@
 # Fake News Detection
 
-We implement a fake news detection in this repository. This was a COMP755: Machine Learning project done by Bongsoo Yi, Chanhwa Lee, Wanyong Feng, and Shengjie Xu.
+We implement fake news detection in this repository. This was a COMP755: Machine Learning project done by Bongsoo Yi, Chanhwa Lee, Wanyong Feng, and Shengjie Xu.
 
 <p align="center">
   <img src="data/overall_process.png" width="600">
@@ -11,7 +11,7 @@ We implement a fake news detection in this repository. This was a COMP755: Machi
 
 ## Data
 
-This project used following four datasets:
+This project used the following four datasets:
 
 **Kaggle 1**     
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
