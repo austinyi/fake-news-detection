@@ -46,7 +46,9 @@ We implemented various machine learning and deep learning methods: Naive Bayes, 
 Check the following files:
 * `NB_LR_SVM_RF.ipynb`: Naive Bayes, Logistic Regression, SVM, Random Forest
 * `MLP.ipynb`: Neural Network
+* `1dCNN.ipynb`: 1D CNN
 * `BERT.py`: BERT
+
 
 ## Domain Adaptation
 Check `domain_adaptation.ipynb` for domain adaptation.
